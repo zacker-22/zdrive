@@ -72,7 +72,7 @@
 
 /*  General CSS  */
 body{
-    background: #fff;
+    background: black;
 }
 
 .wrapper{
@@ -207,7 +207,7 @@ header nav .login_btn:hover{
     width: 100%;
     height: 900px;
     position: relative;
-    background: url('../img/hero.jpg') no-repeat bottom center;
+    background: url('../img/car.jpg') no-repeat bottom center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -485,8 +485,8 @@ header nav .login_btn:hover{
     top: 10px;
     left: 10px;
     padding: 15px 20px;
-    background: #ffffff;
-    color: #514d4d;
+    background: black;
+    color: white;
     font-family: "lato-bold", Helvetica, Arial, sans-serif;
     font-size: 16px;
     font-weight: bold;

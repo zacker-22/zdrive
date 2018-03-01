@@ -72,7 +72,7 @@
 
 /*  General CSS  */
 body{
-    background: #fff;
+    background: black;
 }
 
 .wrapper{
@@ -199,7 +199,7 @@ header nav .login_btn:hover{
     width: 100%;
     height: 800px;
     position: relative;
-    background: url('../img/hero.jpg') no-repeat bottom center;
+    background: url('../img/car.jpg') no-repeat bottom center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -215,7 +215,7 @@ header nav .login_btn:hover{
 }
 
 .hero .caption h2{
-    color: #fff;
+    color: black;
     font-family: "P22 Corinthia";
     font-size: 100px;
     font-weight: lighter;
@@ -225,7 +225,7 @@ header nav .login_btn:hover{
 }
 
 .hero .caption h3{
-    color: #fff;
+    color: black;
     font-family: "lato-regular", Helvetica, Arial, sans-serif;
     font-size: 14px;
     margin: -15px 0 0 25px;
